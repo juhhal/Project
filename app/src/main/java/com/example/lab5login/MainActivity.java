@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
                         }
                     }
                     else{
-                        Toast.makeText(MainActivity.this,"Already exists! please sign in",Toast.LENGTH_SHORT).show();
+                        Toast.makeText(MainActivity.this,"Already exists! please login",Toast.LENGTH_SHORT).show();
                     }
                 }
             }
